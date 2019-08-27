@@ -1,0 +1,12 @@
+<sbspresets formatversion="1.1" count="1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="asphaltred1">
+  <presetinput uid="2248163775" identifier="make_it_tile" value="5" type="4"/>
+  <presetinput uid="2260252715" identifier="input_scale" value="75.781,31.055" type="1"/>
+  <presetinput uid="2260298739" identifier="main_input" filepath="20190826_182228.jpg" type="5"/>
+  <presetinput uid="2260337444" identifier="Ambient_Occlusion" value="0" type="4"/>
+  <presetinput uid="2260342710" identifier="input_position" value="-0.086,0.045" type="1"/>
+  <presetinput uid="2897998647" identifier="$randomseed" value="404621507" type="4"/>
+  <presetinput uid="4224312677" identifier="$outputsize" value="10,10" type="8"/>
+  <export pattern="asphaltred1hd_%O" dir="C:/Users/kfarr/dev/magic-matta-art/materials" metaopt="0" disabled="" timestart="0" fps="0" format="jpg" timeend="0" quality="75" timeunit="frame"/>
+ </sbspreset>
+</sbspresets>

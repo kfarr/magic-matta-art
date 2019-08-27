@@ -1,0 +1,8 @@
+<sbspresets count="1" formatversion="1.1">
+ <sbspreset label="hatched" pkgurl="pkg://Bitmap2Material_3">
+  <presetinput identifier="make_it_tile" value="2" uid="2248163775" type="4"/>
+  <presetinput identifier="input_scale" value="100,140.039" uid="2260252715" type="1"/>
+  <presetinput identifier="main_input" filepath="13_gettyimages_607293504_super_resized_crop.jpg" uid="2260298739" type="5"/>
+  <presetinput identifier="tiling_transition_size" value="0.381" uid="2310254644" type="0"/>
+ </sbspreset>
+</sbspresets>

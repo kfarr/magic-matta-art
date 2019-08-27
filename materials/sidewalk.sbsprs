@@ -1,0 +1,11 @@
+<sbspresets formatversion="1.1" count="1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="sidewalk">
+  <presetinput identifier="make_it_tile" value="1" type="4" uid="2248163775"/>
+  <presetinput identifier="tiling_random_angle_variation" value="0.328" type="0" uid="2259198632"/>
+  <presetinput identifier="tiling_transition_precision" value="0.425" type="0" uid="2259198639"/>
+  <presetinput identifier="input_scale" value="58.008,78.711" type="1" uid="2260252715"/>
+  <presetinput identifier="main_input" type="5" filepath="20190826_174347.jpg" uid="2260298739"/>
+  <presetinput identifier="Ambient_Occlusion" value="0" type="4" uid="2260337444"/>
+  <presetinput identifier="input_position" value="-0.033,0.033" type="1" uid="2260342710"/>
+ </sbspreset>
+</sbspresets>

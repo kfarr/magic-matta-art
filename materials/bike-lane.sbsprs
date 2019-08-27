@@ -1,0 +1,9 @@
+<sbspresets count="1" formatversion="1.1">
+ <sbspreset label="bike-lane" pkgurl="pkg://Bitmap2Material_3">
+  <presetinput type="4" uid="2248163775" identifier="make_it_tile" value="5"/>
+  <presetinput type="1" uid="2260252715" identifier="input_scale" value="40.039,68.75"/>
+  <presetinput type="5" uid="2260298739" identifier="main_input" filepath="20190802_113103.jpg"/>
+  <presetinput type="4" uid="2260337444" identifier="Ambient_Occlusion" value="0"/>
+  <presetinput type="4" uid="2897998647" identifier="$randomseed" value="1007082527"/>
+ </sbspreset>
+</sbspresets>

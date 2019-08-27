@@ -1,0 +1,9 @@
+<sbspresets formatversion="1.1" count="1">
+ <sbspreset pkgurl="pkg://Bitmap2Material_3" label="asphalt2">
+  <presetinput value="1" uid="2248163775" identifier="make_it_tile" type="4"/>
+  <presetinput value="0.122" uid="2259198639" identifier="tiling_transition_precision" type="0"/>
+  <presetinput filepath="20190826_182319.jpg" uid="2260298739" identifier="main_input" type="5"/>
+  <presetinput value="0" uid="2260337444" identifier="Ambient_Occlusion" type="4"/>
+  <presetinput value="0.771" uid="2310254644" identifier="tiling_transition_size" type="0"/>
+ </sbspreset>
+</sbspresets>

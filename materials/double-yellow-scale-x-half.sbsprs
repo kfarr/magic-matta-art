@@ -1,0 +1,26 @@
+<sbspresets formatversion="1.1" count="2">
+ <sbspreset label="double-yellow-scale-x-half" pkgurl="pkg://Bitmap2Material_3">
+  <presetinput uid="2248163775" type="4" value="3" identifier="make_it_tile"/>
+  <presetinput uid="2259198639" type="0" value="0.711" identifier="tiling_transition_precision"/>
+  <presetinput uid="2260252715" type="1" value="46.289,100" identifier="input_scale"/>
+  <presetinput uid="2260298739" type="5" filepath="../../../Downloads/20190826_182503.jpg" identifier="main_input"/>
+  <presetinput uid="2310254644" type="0" value="0.006" identifier="tiling_transition_size"/>
+  <presetinput uid="2897998647" type="4" value="2101180958" identifier="$randomseed"/>
+ </sbspreset>
+ <sbspreset label="double-yellow" pkgurl="pkg://Bitmap2Material_3">
+  <presetinput uid="2216812470" type="2" value="1,0,0" identifier="relief_balance"/>
+  <presetinput uid="2248163775" type="4" value="3" identifier="make_it_tile"/>
+  <presetinput uid="2259198639" type="0" value="1.711" identifier="tiling_transition_precision"/>
+  <presetinput uid="2260252715" type="1" value="95,100" identifier="input_scale"/>
+  <presetinput uid="2260298739" type="5" filepath="../../../Downloads/20190826_182503.jpg" identifier="main_input"/>
+  <presetinput uid="2260337184" type="4" value="1" identifier="Specular"/>
+  <presetinput uid="2260337200" type="4" value="1" identifier="Glossiness"/>
+  <presetinput uid="2260337209" type="4" value="1" identifier="Displacement"/>
+  <presetinput uid="2260337210" type="4" value="1" identifier="Bump"/>
+  <presetinput uid="2260352188" type="4" value="1" identifier="Diffuse"/>
+  <presetinput uid="2262389286" type="0" value="0.003" identifier="relief_pinch"/>
+  <presetinput uid="2310254644" type="0" value="0.006" identifier="tiling_transition_size"/>
+  <presetinput uid="2897998647" type="4" value="2101180958" identifier="$randomseed"/>
+  <export dir="C:/Users/kfarr/dev/magic-matta-art/materials" quality="75" timeunit="frame" fps="0" pattern="double_yellow2hd__%O" timeend="0" disabled="" format="jpg" metaopt="0" timestart="0"/>
+ </sbspreset>
+</sbspresets>
